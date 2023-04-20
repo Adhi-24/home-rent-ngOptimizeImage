@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { HomesComponent } from './homes/homes.component';
 import { HomeTypeFilterComponent } from './home-type-filter/home-type-filter.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { IMAGE_LOADER, ImageLoaderConfig, NgOptimizedImage, provideImgixLoader } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -18,9 +19,19 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    FormsModule, ReactiveFormsModule
+    FormsModule, 
+    ReactiveFormsModule,
+    NgOptimizedImage
   ],
-  providers: [],
+  // Configure the loader using the `IMAGE_LOADER` token.
+  providers: [
+    {
+      provide: IMAGE_LOADER,
+      useValue: (config: ImageLoaderConfig) => {
+        return '../../assets/' + config.src;
+      }
+    },
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

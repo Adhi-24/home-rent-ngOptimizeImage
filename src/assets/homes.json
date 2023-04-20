@@ -3,120 +3,140 @@
         "image_url": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=500&q=80",
         "type": "Apartment",
         "location": "New York",
-        "title": "Superb duplex apartment in the historical centre"
+        "title": "Superb duplex apartment in the historical centre",
+        "name": "pic1.jpg"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?auto=format&fit=crop&w=500&q=80",
         "type": "House",
         "location": "San Francisco",
-        "title": "Charming house with woodstove"
+        "title": "Charming house with woodstove",
+        "name": "pic2.avif"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80",
         "type": "Room",
         "location": "New York",
-        "title": "Nice Clean Room in Brownstone Studio"
+        "title": "Nice Clean Room in Brownstone Studio",
+        "name": "pic3.avif"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80",
         "type": "Room",
         "location": "San Francisco",
-        "title": "Bright and Sunny Shared Room in Downtown"
+        "title": "Bright and Sunny Shared Room in Downtown",
+        "name": "pic4.avif"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?auto=format&fit=crop&w=500&q=80",
         "type": "House",
         "location": "Boston",
-        "title": "Cape Cod Style House on South Shore"
+        "title": "Cape Cod Style House on South Shore",
+        "name": "pic5.avif"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80",
         "type": "Room",
         "location": "San Francisco",
-        "title": "Large Private Room Facing Golden Bridge"
+        "title": "Large Private Room Facing Golden Bridge",
+        "name": "pic6.avif"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?auto=format&fit=crop&w=500&q=80",
         "type": "House",
         "location": "New York",
-        "title": "Single Family House in Quincy"
+        "title": "Single Family House in Quincy",
+        "name": "pic7.webp"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=500&q=80",
         "type": "Room",
         "location": "Boston",
-        "title": "Small Clean Room near Boston University in Brookline"
+        "title": "Small Clean Room near Boston University in Brookline",
+        "name": "pic8.webp"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?auto=format&fit=crop&w=500&q=80",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic9.webp"
     },
     {
         "image_url": "https://www.shutterstock.com/image-photo/jacksonville-beach-florida-usa-march-260nw-1668537997.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic10.webp"
     },
     {
         "image_url": "https://www.shutterstock.com/image-photo/curb-appeal-american-house-exterior-260nw-469892492.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic11.webp"
     },
     {
         "image_url": "https://storage.needpix.com/rsynced_images/us-general-house-744938_1280.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic12.jpg"
     },
     {
         "image_url": "https://www.gannett-cdn.com/-mm-/481602f6d9edcd4edf3b3b8a2ff6d2d98ae8eb24/c=0-0-507-286/local/-/media/USATODAY/USATODAY/2014/04/11//1397233607000-144292803.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic13.jpg"
     },
     {
         "image_url": "https://www.worldatlas.com/r/w1200/upload/0d/46/75/shutterstock-120103837.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic14.avif"
     },
     {
         "image_url": "https://www.e-architect.com/images/jpgs/los_angeles/saperstein_residence_e080112_1.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic15.jpg"
     },
     {
         "image_url": "https://archive.vcstar.com/Services/image.ashx?domain=www.vcstar.com&file=homes1__4504560_ver1.0_640_480.jpg&resize=",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic16.jpg"
     },
     {
         "image_url": "https://ssl.cdn-redfin.com/photo/45/mbphoto/565/genMid.V1-16565_0.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic17.jpg"
     },
     {
         "image_url": "https://ssl.cdn-redfin.com/photo/41/mbphoto/244/genMid.SR23014244_0.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic18.jpg"
     },
     {
         "image_url": "https://cdn.homedit.com/wp-content/uploads/house-styles/Spli-level-Architecture-House-Style.jpg",
         "type": "House",
         "location": "San Francisco",
-        "title": "Beach House near Restaurants"
+        "title": "Beach House near Restaurants",
+        "name": "pic19.jpg"
     },
     {
         "image_url": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=500&q=80",
         "type": "Apartment",
         "location": "New York",
-        "title": "Rustic Apartment in Downtown"
+        "title": "Rustic Apartment in Downtown",
+        "name": "pic20.jpg"
     }
 ]
