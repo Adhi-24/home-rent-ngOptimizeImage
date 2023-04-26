@@ -28,7 +28,7 @@ import { IMAGE_LOADER, ImageLoaderConfig, NgOptimizedImage, provideImgixLoader }
     {
       provide: IMAGE_LOADER,
       useValue: (config: ImageLoaderConfig) => {
-        return '../../assets/' + config.src;
+        return  config.src;
       }
     },
   ],
